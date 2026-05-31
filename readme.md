@@ -13,5 +13,5 @@
 2. **Эксперименты (тепловая карта):** `python run_lyapunov_experiment.py`
 
 ## Команды для запуска
-1. **Запуск тестов** pytest --cov=. --cov-report=term-missing test_algorithms.py
-2. **
+1. **Запуск тестов** `pytest --cov=. --cov-report=term-missing test_algorithms.py`
+2. **Построение тепловой карты** `python3 run_and_plot_lyapunov.py`
